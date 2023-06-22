@@ -1,0 +1,15 @@
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/bin/Debug/net7.0/arratlist-lastof
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/bin/Debug/net7.0/arratlist-lastof.deps.json
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/bin/Debug/net7.0/arratlist-lastof.runtimeconfig.json
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/bin/Debug/net7.0/arratlist-lastof.dll
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/bin/Debug/net7.0/arratlist-lastof.pdb
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.csproj.AssemblyReference.cache
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.AssemblyInfoInputs.cache
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.AssemblyInfo.cs
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.csproj.CoreCompileInputs.cache
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.dll
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/refint/arratlist-lastof.dll
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.pdb
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/arratlist-lastof.genruntimeconfig.cache
+/home/apolM01-043/netCore/arraylist.lastof/Array-lastof/obj/Debug/net7.0/ref/arratlist-lastof.dll
